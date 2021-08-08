@@ -22,3 +22,4 @@ after_success:
   - docker push anvimal/multi-nginx
   - docker push anvimal/multi-server
   - docker push anvimal/multi-worker
+
